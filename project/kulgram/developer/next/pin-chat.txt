@@ -1,9 +1,10 @@
-Kulgram #003 "Membuat Script Bash & Belajar Git."
-Minggu 2 <25 Desember 2017>
+Kulgram #001 "Membuat Script Bash & Belajar Git."
+Minggu 0 <25 Februari 2019>
 MATERI :
-+ Mengelola Git di Github
++ Mengenal Script Bash
 PRAKTEK :
-+ Membuat Repository di Github.
-+ Fork dan Pull Request.
-PERSIAPAN:
-* Sudah mendaftar akun github.
++ Membuat Script Bash.
+
+NOTES:
+* Invite Hanya Developer
+* Tempat Chat Telegram [Dev] Xenta OS Linux

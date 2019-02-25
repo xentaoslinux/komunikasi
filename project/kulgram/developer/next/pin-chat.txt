@@ -1,10 +1,11 @@
 Kulgram #001 "Membuat Script Bash & Belajar Git."
-Minggu 0 <25 Februari 2019>
+Minggu 1 <4 Maret 2019>
 MATERI :
-+ Mengenal Script Bash
++ Mengenal Git dan Github
 PRAKTEK :
-+ Membuat Script Bash.
++ Membuat Version Control Git untuk Berkas Script Bash.
+PERSIAPAN:
+* Sudah terinstall paket git
 
-NOTES:
-* Invite Hanya Developer
-* Tempat Chat Telegram [Dev] Xenta OS Linux
+Untuk Logchat Kulgram Minggu 0
+Kunjungi : https://github.com/xentaoslinux/komunikasi

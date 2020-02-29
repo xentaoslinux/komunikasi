@@ -11,7 +11,7 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
 repository=komunikasi
-update="Update"
+update="Menambahkan Arsip Hasil Rapat Bulanan Februari - Maret 2020.pdf"
 figlet $repository
 cd ..
 echo "Set Remote $team..."
